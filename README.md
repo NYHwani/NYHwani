@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h2> My Teck Stack🔭 </h2>
-<div style="display: flex;text-align: center;">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/294f41726bba121b2233689890fbca6bf4b3e2d3417b5f75e8d6b89ad98e1bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666">
-    <img src="https://camo.githubusercontent.com/294f41726bba121b2233689890fbca6bf4b3e2d3417b5f75e8d6b89ad98e1bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff" style="max-width: 100%;">
-    <p>HTML5</p>
-  </a>
+<div style="display: flex;text-align: ">
+  <div style="center;">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/294f41726bba121b2233689890fbca6bf4b3e2d3417b5f75e8d6b89ad98e1bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666">
+      <img src="https://camo.githubusercontent.com/294f41726bba121b2233689890fbca6bf4b3e2d3417b5f75e8d6b89ad98e1bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff" style="max-width: 100%;">
+      <p>HTML5</p>
+    </a>
+  </div>
 </div>
